@@ -1,0 +1,53 @@
+HTML Basics
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+CSS Basics
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+https://javascript.info/intro
+
+TypeScript
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+React
+https://react.dev/learn/describing-the-ui
+
+Redux
+https://redux.js.org/introduction/getting-started
+
+Formik
+https://formik.org/docs/tutorial
+
+Spring Boot
+https://spring.io/guides/gs/spring-boot/
+https://spring.io/guides/tutorials/rest/
+https://spring.io/guides/tutorials/metrics-and-tracing/
+
+PostgreSQL
+https://www.postgresqltutorial.com/postgresql-getting-started/
+
+Spring Data JPA
+https://spring.io/guides/gs/accessing-data-jpa/
+
+https://medium.com/@saeiddrv/jpa-hibernate-mapping-types-891686bc6cfd
+
+https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/
+
+Git
+https://git-scm.com/book/en/v2
+https://git-scm.com/docs
+
+Linux
+https://tldp.org/LDP/intro-linux/html/index.html
+
+Docker
+https://www.docker.com/101-tutorial/
+https://docs.docker.com/get-started/
+
+Jenkins
+https://www.jenkins.io/doc/
+https://www.jenkins.io/doc/pipeline/tour/getting-started/
+
+

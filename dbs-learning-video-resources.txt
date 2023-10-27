@@ -1,0 +1,76 @@
+HTML and CSS
+https://www.youtube.com/watch?v=qz0aGYrrlhU&pp=ygUjaHRtbCBhbmQgY3NzIHR1dG9yaWFsIGZvciBiZWdpbm5lcnM%3D
+https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+
+CSS Flexbox
+https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG
+
+JavaScript
+https://www.youtube.com/watch?v=W6NZfCO5SIk&pp=ygUTamF2YXNjcmlwdCB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=PkZNo7MFNFg&pp=ygUTamF2YXNjcmlwdCB0dXRvcmlhbA%3D%3D
+
+ES6 Features
+https://www.youtube.com/watch?v=NCwa_xi0Uuc&pp=ygUMZXM2IHR1dG9yaWFs
+https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml
+
+TypeScript
+https://www.youtube.com/watch?v=d56mG7DezGs&pp=ygUTdHlwZXNjcmlwdCB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=30LWjhZzg50&pp=ygUTdHlwZXNjcmlwdCB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
+
+React Basics
+https://www.youtube.com/watch?v=SqcY0GlETPk&pp=ygUOUmVhY3QgdHV0b3JpYWw%3D
+https://www.youtube.com/watch?v=bMknfKXIFA8&pp=ygUOUmVhY3QgdHV0b3JpYWw%3D
+https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+Redux
+https://www.youtube.com/watch?v=poQXNp9ItL4&pp=ygUOUmVkdXggdHV0b3JpYWw%3D
+https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+
+Formik
+https://www.youtube.com/watch?v=khGypss-RJs&pp=ygUPZm9ybWlrIHR1dG9yaWFs
+
+SQL and PostgreSQL
+https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUMc3FsIHR1dG9yaWFs
+https://www.youtube.com/watch?v=qw--VYLpxG4&pp=ygURcG9zdGdyZXMgdHV0b3JpYWw%3D
+
+Core Java
+https://www.youtube.com/watch?v=eIrMbAQSU34&pp=ygUNamF2YSB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=A74TOX803D0&pp=ygUNamF2YSB0dXRvcmlhbA%3D%3D
+
+Java 8 Features
+https://www.youtube.com/watch?v=tj5sLSFjVj4&pp=ygUcamF2YSA4IG5ldyBmZWF0dXJlcyB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=vKVzRbsMnTQ&pp=ygUcamF2YSA4IG5ldyBmZWF0dXJlcyB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=t1-YZ6bF-g0&pp=ygUcamF2YSA4IG5ldyBmZWF0dXJlcyB0dXRvcmlhbA%3D%3D
+
+Spring Boot
+https://www.youtube.com/watch?v=Nv2DERaMx-4&pp=ygUUc3ByaW5nIEJvb3QgdHV0b3JpYWw%3D
+https://www.youtube.com/watch?v=vtPkZShrvXQ&pp=ygUUc3ByaW5nIEJvb3QgdHV0b3JpYWw%3D
+
+Spring Data JPA
+https://www.youtube.com/watch?v=x67yiTHxn00&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+DevOps
+https://www.youtube.com/watch?v=0yWAtQ6wYNM&pp=ygUPZGV2b3BzIHR1dG9yaWFs
+https://www.youtube.com/watch?v=j5Zsa_eOXeY&pp=ygUPZGV2b3BzIHR1dG9yaWFs
+
+Git
+https://www.youtube.com/watch?v=8JJ101D3knE&pp=ygUMZ2l0IHR1dG9yaWFs
+https://www.youtube.com/watch?v=Uszj_k0DGsg&pp=ygUMZ2l0IHR1dG9yaWFs
+
+Linux
+https://www.youtube.com/watch?v=p8QOnty6rSU&list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW&pp=iAQB
+https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&pp=iAQB
+
+Docker
+https://www.youtube.com/watch?v=WpwtzQq5Er4&list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&pp=iAQB
+https://www.youtube.com/watch?v=pTFZFxd4hOI&pp=ygUPZG9ja2VyIHR1dG9yaWFs
+https://www.youtube.com/watch?v=pg19Z8LL06w&pp=ygUPZG9ja2VyIHR1dG9yaWFs
+
+Jenkins and CI/CD
+https://www.youtube.com/watch?v=6YZvp2GwT0A&pp=ygUQamVua2lucyB0dXRvcmlhbA%3D%3D
+https://www.youtube.com/watch?v=f4idgaq2VqA&pp=ygUQamVua2lucyB0dXRvcmlhbA%3D%3D
+
+SOLID principles
+https://www.youtube.com/watch?v=zHiWqnTWsn4&pp=ygUQc29saWQgcHJpbmNpcGxlcw%3D%3D
+

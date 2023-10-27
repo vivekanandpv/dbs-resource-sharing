@@ -1,0 +1,23 @@
+Core Java
+https://horstmann.com/corejava/
+
+JavaScript
+https://books.google.co.in/books/about/JavaScript.html?id=PXa2bby0oQ0C&source=kp_book_description&redir_esc=y
+
+TypeScript
+https://books.google.co.in/books/about/Programming_TypeScript.html?id=Y-mUDwAAQBAJ&source=kp_book_description&redir_esc=y
+https://books.google.co.in/books/about/Learning_TypeScript.html?id=FCqlzgEACAAJ&source=kp_book_description&redir_esc=y
+
+SQL
+https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/
+
+Spring Boot
+https://www.oreilly.com/library/view/spring-boot-up/9781492076971/
+
+Docker
+https://books.google.co.in/books/about/Docker_Deep_Dive.html?id=YRsD0AEACAAJ&source=kp_book_description&redir_esc=y
+
+Programming General
+https://www.oreilly.com/library/view/clean-code-a/9780136083238/
+https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
+
